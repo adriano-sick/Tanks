@@ -338,3 +338,26 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Temp
+/ProjectSettings
+/Library
+/Assets/Animators
+/Assets/AudioClips
+/Assets/AudioMixers
+/Assets/Editor
+/Assets/Fonts
+/Assets/Materials
+/Assets/Models
+/Assets/Prefabs
+/Assets/Profiles
+/Assets/Scenes
+/Assets/Sprites
+/Assets/TextMesh Pro
+/Assets/TutorialInfo
+/Assets/_Completed-Assets
+/Assets/InputManager.preset
+/Assets/Readme.asset
+/Assets/Tanks!_Third-PartyNotice.txt
+/Assets/_Complete-Game.unity
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
